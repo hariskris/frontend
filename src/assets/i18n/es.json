@@ -1,0 +1,88 @@
+{
+    "placeholder": {
+        "email": "Email",
+        "fullName": "Nombre completo",
+        "companyName": "nombre de empresa",
+        "password": "Contraseña",
+        "newPassword": "Nueva contraseña",
+        "phoneNumber": "Número de teléfono",
+        "address": "Habla a",
+        "verificationCode": "Código de verificación",
+        "customerName": "Nombre del cliente",
+        "orderId": "Solicitar ID",
+        "searchLocation": "Ubicación de búsqueda",
+        "latitude": "Latitud",
+        "longitude": "Longitud",
+        "startTime": "Hora de inicio",
+        "endTime": "Hora de finalización",
+        "description":"Descripción"
+    },
+    "validation": {
+        "invalidEmail": "Email inválido!",
+        "invalidPassword": "Contraseña invalida!",
+        "requiredEmail": "correo electronico es requerido!",
+        "requiredName": "Se requiere el nombre!",
+        "requiredCompanyName": "El nombre de la empresa es obligatorio!",
+        "requiredPassword": "La contraseña es obligatoria!",
+        "requiredPhoneNumber": "El número de teléfono es obligatorio!",
+        "inputPassword": "Ingrese su contraseña!",
+        "requiredLocation": "Seleccione una ubicación!",
+        "requiredStartTime":"Se requiere la hora de inicio!",
+        "requiredEndTime":"Se requiere la hora de finalización!"
+    },
+    "login": {
+        "login": "Iniciar sesión",
+        "signup": "Regístrate",
+        "password": "Contraseña",
+        "forgetPassword": "Se te olvidó tu contraseña ?",
+        "dontHaveAnAccount": "No tengo una cuenta ?",
+        "changePassword":"Cambia la contraseña",
+        "changeLanguage":"Elige lengua",
+        "logout":"Cerrar sesión",
+        "language":"Idioma"
+    },
+    "signup": {
+        "signup": "Regístrate",
+        "register": "Registrarse",
+        "haveAnAccount": "Tener una cuenta ?",
+        "agree": "Al registrarse, usted acepta nuestro",
+        "service": "Términos y Condiciones",
+        "and": "Y",
+        "privacy": "Política de privacidad."
+    },
+    "forgetPassword": {
+        "resetPassword": "Restablecer la contraseña",
+        "passwordResetInstruction": "Ingrese su dirección de correo electrónico a continuación y le enviaremos instrucciones para restablecer la contraseña.",
+        "cancel": "Cancelar",
+        "reset": "Reiniciar"
+    },
+    "verify": {
+        "verifyEmail": "Verifique su correo electrónico",
+        "sentCode": "Nosotros enviamos código de verificación a",
+        "realPerson": ",Por favor ingréselo junto con su nueva contraseña para continuar.!",
+        "verificationRequired": "Se requiere código de verificación",
+        "verify": "Verificar",
+        "newPassword": "Contraseña",
+        "resendCode": "Vuelva a enviar el código de verificación",
+        "editEmail": "Editar el correo electrónico",
+        "enteredWrongEmail": "Ingresó un correo electrónico incorrecto?"
+    },
+    "dashboard": {
+        "newTask": "Nueva tarea",
+        "createTask":"Crear orden"
+    },
+    "orderHistory":{
+        "allOrders":"Todas las órdenes",
+        "orderHistory":"Historial de pedidos",
+        "refresh":"Actualizar",
+        "taskId":"ID de tarea",
+        "taskName":"Nombre de la tarea",
+        "orderId":"Solicitar ID",
+        "taskType":"Tipo de tarea",
+        "description":"Descripción",
+        "driverName":"Nombre del conductor",
+        "address":"Habla a",
+        "completeBefore":"Completo antes",
+        "taskStatus":"Estado de la tarea"
+    }
+}
